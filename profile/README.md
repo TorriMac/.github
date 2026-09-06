@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme-template/master/assets/lines.png" width="100%" />
 </p>
 
-### 🏢 About Us
+### About Us
 **TorriMac PVT (LTD)** is a technology company based in **Sri Lanka 🇱🇰**. We specialize in building robust digital products, scalable cloud architectures, and engaging game experiences.
 
 ---
