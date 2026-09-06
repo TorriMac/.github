@@ -10,9 +10,9 @@
 ---
 
 ###  What We Do
-* ** Custom Software Development:** Full-stack Web & Enterprise Applications
-* ** Cloud Solutions:** Cloud Architecture, Migration & DevOps Management
-* ** Game Development:** Interactive Experiences & Game Engineering
+* **Custom Software Development:** Full-stack Web & Enterprise Applications
+* **Cloud Solutions:** Cloud Architecture, Migration & DevOps Management
+* **Game Development:** Interactive Experiences & Game Engineering
 
 ---
 
